@@ -13,8 +13,17 @@
       android:text="alen"/>
 
   <Button
+
+      android:id="@+id/button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Sasuke" />
+
+    <Button
+            
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:text="jerin joy"/>
+
 
 </LinearLayout>
