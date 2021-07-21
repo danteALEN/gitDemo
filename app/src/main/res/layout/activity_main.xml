@@ -11,4 +11,17 @@
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:text="alen"/>
+
+  <Button
+      android:id="@+id/button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="madhav" />
+
+  <Button
+      android:id="@+id/button2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="chcking for branch" />
+
 </LinearLayout>
